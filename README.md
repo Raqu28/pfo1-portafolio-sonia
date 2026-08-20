@@ -55,6 +55,7 @@ Para realizar esta PFO utilicé **ChatGPT** como herramienta de apoyo.
 **Plan utilizado:** Gratis.
 
 **Experiencia previa:** mi experiencia con ChatGPT es inicial. Es la primera vez que lo utilizo como herramienta de apoyo para desarrollar un proyecto de una página web.
+Utilicé ChatGPT para orientarme con la estructura HTML y CSS, para adaptar la página a distintos tamaños de pantalla y para organizar el proyecto.
 
 **¿Para qué utilicé IA?**
 - Para organizar la estructura inicial de la landing.
@@ -72,7 +73,7 @@ La decisión final sobre el contenido y la presentación del sitio corresponde a
 
 Una vez publicado el proyecto en Vercel, completar aquí:
 
-**URL de Vercel:** `PEGAR-AQUÍ-LA-URL-DE-VERCEL`
+**URL de Vercel:** https://pfo1-portafolio-sonia.vercel.app
 
 ## Estructura
 
