@@ -3,7 +3,7 @@
 ## Autora
 
 **Sonia Raquel Andrada**  
-GitHub: [Raqu27](https://github.com/Raqu27)
+GitHub: [Raqu28](https://github.com/Raqu27)
 
 ## Descripción
 
